@@ -133,7 +133,7 @@ a:hover { color: var(--blue-light); text-decoration: underline; }
   line-height: 1.22;
   color: #fff;
   margin: 0 auto 2rem;
-  max-width: 800px;
+  max-width: 960px;
   letter-spacing: -0.025em;
 }
 
